@@ -1,2 +1,4 @@
 my first git
 Creating a new branch is quick and simple.
+
+git add test!
